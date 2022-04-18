@@ -1,0 +1,9 @@
+{
+  "name": "wakalabs",
+  "version": "1.0.0",
+  "description": "twitch tools",
+  "main": "index.js",
+  "author": "nagawaka",
+  "license": "MIT",
+  "private": true
+}
